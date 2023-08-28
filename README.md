@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
 ### Hi there 👋
 
 ## 🧐 About
