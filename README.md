@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="100"/>
+  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="300"/>
 </div>
 
 ### Hi there 👋
