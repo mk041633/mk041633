@@ -25,7 +25,7 @@
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.72.0/python.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript.svg" /> 
       <a href="https://www.typescriptlang.org/" target="_blank">
