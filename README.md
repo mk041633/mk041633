@@ -136,18 +136,5 @@
   </kbd>
    <kbd>
 </br>
-    </p>
-<h3 align="left">▶ Stats:</h3>
 
-</p>
-  </a>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk041633&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mk041633&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mk041633&theme=holi-theme">
-</p>
+<h2 align="center">Most of repositories stored in private. Contact me to get access)</h2>
